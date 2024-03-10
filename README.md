@@ -101,6 +101,7 @@ Here are the steps to creating a static website with Github Pages and Jekyll
 10.  Click on the link in the deploy bubble
 
 Upon clicking the link, you should be redirected to a website containing your portfolio. It should look like this
+![](https://github.com/BenedictAg/3040-A2/blob/main/demo.gif)
 
 
 # Authors and Acknowledgements
