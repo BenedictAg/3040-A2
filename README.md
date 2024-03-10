@@ -100,6 +100,9 @@ Here are the steps to creating a static website with Github Pages and Jekyll
 9. Click the workflow run that corresponds to the commit
 10.  Click on the link in the deploy bubble
 
+Upon clicking the link, you should be redirected to a website containing your portfolio. It should look like this
+
+
 # Authors and Acknowledgements
 The structure of the resume is inspired by the resumes found in Appendix D from the [Resume Book](https://www.umanitoba.ca/career-services/sites/career-services/files/2021-05/Online_Resume_Book.pdf) made by University of Manitoba Career Services
 
