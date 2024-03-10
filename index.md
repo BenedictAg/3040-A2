@@ -30,7 +30,7 @@ University of Manitoba, Winnipeg, MB
 
 ### Work Experience
 **Food Server** \
-Shaftesbury Park Retirement Residenc, Winnipeg, MB \
+Shaftesbury Park Retirement Residence, Winnipeg, MB \
 2019-2020
 
 ---
